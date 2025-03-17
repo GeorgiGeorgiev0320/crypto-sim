@@ -44,7 +44,9 @@ cd <your-project-folder>
 - Open the backend/ folder in IntelliJ IDEA or any Java-supported IDE of your choice.
 
 - Run the application (ensure dependencies are installed).
-Note: When the backend is first started, not all cryptocurrencies may show immediately. The real-time data from the Kraken WebSocket API will start loading gradually. Some cryptos may take a moment to appear as they are fetched.
+
+-Note: When the backend is first started, not all cryptocurrencies may show immediately. 
+The real-time data from the Kraken WebSocket API will start loading gradually. Some cryptos may take a moment to appear as they are fetched.
 
 ### 4. Test the Application  
 
