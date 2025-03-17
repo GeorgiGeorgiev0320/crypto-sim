@@ -11,7 +11,7 @@ Follow these steps to set up and run the application.
 First, download the project using Git:
 
 ```sh
-git clone <your-repository-url>
+git clone [<your-repository-url>](https://github.com/GeorgiGeorgiev0320/crypto-sim.git)
 cd <your-project-folder>
 ```
 
@@ -31,10 +31,19 @@ cd <your-project-folder>
    ```  
    - The frontend should automatically open in your browser at **http://localhost:3000**.  
 
-### 3. Start the Backend  
+3. Start the Backend
 
-1. Open the `backend/` folder in **IntelliJ IDEA** or any Java-supported IDE of your choice.
-2. Run the application (ensure dependencies are installed).  
+- Open the backend/ folder in IntelliJ IDEA or any Java-supported IDE of your choice.
+
+- The backend is built with Spring Web, WebSockets, and Spring Security (currently disabled).
+
+- By default, it runs on localhost:8080, but this can be changed in the properties folder.
+
+- Run the application (ensure dependencies are installed).
+
+- Open the backend/ folder in IntelliJ IDEA or any Java-supported IDE of your choice.
+
+- Run the application (ensure dependencies are installed).
 
 ### 4. Test the Application  
 
