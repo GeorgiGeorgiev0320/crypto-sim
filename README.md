@@ -11,7 +11,7 @@ Follow these steps to set up and run the application.
 First, download the project using Git:
 
 ```sh
-git clone [<your-repository-url>](https://github.com/GeorgiGeorgiev0320/crypto-sim.git)
+git clone https://github.com/GeorgiGeorgiev0320/crypto-sim.git
 cd <your-project-folder>
 ```
 
