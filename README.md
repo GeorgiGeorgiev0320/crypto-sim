@@ -49,11 +49,11 @@ cd <your-project-folder>
 
 Once both the frontend and backend are running, **refresh the webpage**, and you're ready to go! 🎉  
 
-###1. Part of the cryptos and the userface of buying and selling cryptos!
+### 1. Part of the cryptocurrencies and the userface of buying and selling cryptos!
 ![image](https://github.com/user-attachments/assets/4448dd07-bb14-4030-96df-0bdc7769cc72)
 
-###2. 
+### 2. The portfolio with options for selling
 ![image](https://github.com/user-attachments/assets/07594852-0bdb-4da8-acb0-d3b6e03a2d45)
 
-###3.
+### 3. The transactions history
 ![image](https://github.com/user-attachments/assets/01df0294-0623-4945-82a8-0a0017c31df0)
