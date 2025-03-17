@@ -61,10 +61,10 @@ Once both the frontend and backend are running, **refresh the webpage**, and you
 ### 3. The transactions history
 ![image](https://github.com/user-attachments/assets/01df0294-0623-4945-82a8-0a0017c31df0)
 
-A) When prices are up.
+A) When prices are down.
 ![image](https://github.com/user-attachments/assets/c2d5ac82-2997-4d7b-9ec9-abe82bb1d00a)
 
-B) When prices are down
+B) When prices are up.
 ![image](https://github.com/user-attachments/assets/5cdcdcb1-e9c9-4b3b-8a95-6b3771b079aa)
 
 
